@@ -1,5 +1,4 @@
 <p align="left">Me chamo João Victor Sobroza Dal Ross e sou de Jaguari - RS</p>
-###
 <h2 align="left">Linguagens que utilizo:</h2>
 
 ###
@@ -29,11 +28,9 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="50"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg "height="50" />          
 </div>
-###
 
 <div align="center">
   <a href="https://github.com/jvsobroza">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jvsobroza&count_private=true&include_all_commits=true&show_icons=true&theme=merko&hide_border=false&show_owner=true"/>
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsobroza&theme=merko&hide_border=false&&layout=compact"/>
   </a>
 </div>
