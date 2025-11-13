@@ -1,6 +1,6 @@
 <p align="left">Me chamo João Victor Sobroza Dal Ross e sou de Jaguari - RS</p>
-<p>   - 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas (IFFar-svs - 4/6)  
-      - ⌨️ Áreas Preferidas: Tecnologia</p>
+<p>   - 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas (IFFar-svs - 4/6)  </p>
+   <p>   - ⌨️ Áreas Preferidas: Tecnologia</p>
 <h2 align="left">Linguagens que utilizo:</h2>
 
 ###
