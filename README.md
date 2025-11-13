@@ -1,4 +1,6 @@
 <p align="left">Me chamo João Victor Sobroza Dal Ross e sou de Jaguari - RS</p>
+<p>   - 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas (IFFar-svs - 4/6)  
+      - ⌨️ Áreas Preferidas: Tecnologia</p>
 <h2 align="left">Linguagens que utilizo:</h2>
 
 ###
@@ -21,13 +23,6 @@
 </div>
 
 ###
-<h2 align="left">IDEs que utilizo:</h2>
-<div align="left">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="50"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" height="50"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="50"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="50" />          
-</div>
 
 <div align="center">
   <a href="https://github.com/jvsobroza">
