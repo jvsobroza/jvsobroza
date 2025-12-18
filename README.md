@@ -26,6 +26,6 @@
 
 <div align="center">
   <a href="https://github.com/jvsobroza">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsobroza&theme=merko&hide_border=false&&layout=compact"/>
+     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsobroza&theme=merko&hide_border=false&&layout=compact"/>
   </a>
 </div>
