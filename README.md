@@ -20,10 +20,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50"/>
 </div>
 
-###
+## Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/jvsobroza">
-     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsobroza&theme=merko&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jvsobroza&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jvsobroza&layout=compact&theme=tokyonight)
