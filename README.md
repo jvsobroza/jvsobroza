@@ -19,9 +19,11 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50"/>
 </div>
-
+<div align="center">
+  <a href="https://jvsobroza.github.io/portifolio" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20Portfólio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</div>
 ## Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jvsobroza&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jvsobroza&layout=compact&theme=tokyonight)
