@@ -4,20 +4,13 @@
 
 ###
 
-<div align="left">
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50" />
+<div align="center">
+   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="50" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="50"/>
    
-</div>
-
-<h2 align="left">SGBDs que utilizo:</h2>
-
-###
-<div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50"/>
 </div>
 
 ## Portifólio
@@ -30,4 +23,8 @@
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jvsobroza&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=jvsobroza&show_icons=true&theme=dark&bg_color=060d0a&border_color=3CB371&icon_color=00c896&title_color=3CB371&text_color=e8f4ef&hide_border=false&count_private=true&rank_icon=github" />
+  &nbsp;
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jvsobroza&layout=compact&theme=dark&bg_color=060d0a&border_color=3CB371&title_color=3CB371&text_color=e8f4ef&langs_count=8&hide_border=false"/>
+</div>  
