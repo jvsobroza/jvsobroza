@@ -23,7 +23,6 @@ Graduando em **Análise e Desenvolvimento de Sistemas** no Instituto Federal Far
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="45" alt="Laravel" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="45" alt="Java" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="45" alt="Android" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="45" alt="MySQL" />;
 </div>
 
 <br>
