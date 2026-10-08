@@ -35,4 +35,8 @@ Graduando em **Análise e Desenvolvimento de Sistemas** no Instituto Federal Far
   <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jvsobroza&layout=compact&theme=dark&bg_color=060d0a&border_color=3CB371&title_color=3CB371&text_color=e8f4ef&langs_count=8&hide_border=false"/>
 </div>
 
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="480">
+</div>
+
 ---
